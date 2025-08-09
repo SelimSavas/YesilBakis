@@ -4,6 +4,8 @@
 Yeşil Bakış, tarım ve bitki bakımı konularında **çiftçilere**, **bahçıvanlara** ve **hobi yetiştiricilerine** akıllı öneriler sunan bir bilgi sistemi.  
 Sistem; PDF, Word, web makaleleri veya görsellerden (OCR ile) elde edilen tarımsal içerikleri işler, anlamlı şekilde indeksler ve kullanıcının **doğal dilde sorduğu sorulara doğru, kaynak gösteren cevaplar** üretir.
 
+
+![Uploading depositphotos_337254810-stock-photo-farmer-hold-a-smartphone-on.jpg…]()
 ---
 
 ## 🚜 Sorun ve Çözüm
